@@ -1,6 +1,6 @@
 # RSE School
 
-##Clone fork
+## Clone fork
 
 git clone https://github.com/YOURNAME/school
 
